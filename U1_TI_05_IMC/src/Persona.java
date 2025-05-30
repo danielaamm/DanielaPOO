@@ -3,7 +3,7 @@ public class Persona {
     private double altura;
     private double peso;
 
-    //Nombre
+    //Nombre persona
     public String getNombre() {
         return nombre;
     }
