@@ -29,7 +29,7 @@ public class Main {
             System.out.println("Acceso denegado");
         }
 
-        //Valida la contraseña ingresada
+        //Valida la contraseña ingresadaa
         System.out.print("Contraseña: ");
         String autentificar = sc.nextLine();
         if (usuario.autenticar(autentificar)) {
