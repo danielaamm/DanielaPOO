@@ -20,7 +20,7 @@ public class Main {
             return;
         }
 
-        //Intento contraseña incorrecta
+        //Intento contraseña incorrectaa
         System.out.println("Validación de contraseña");
         System.out.println("Contraeña: 123hola");
         if (usuario.autenticar("123hola")) {
