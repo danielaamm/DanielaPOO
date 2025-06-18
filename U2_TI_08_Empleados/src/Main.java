@@ -10,7 +10,9 @@ public class Main {
         System.out.println("Nombre: " + empleadoTiempocompleto.getNombre());
         System.out.println("Beneficios: " + ((EmpleadoTiempoCompleto) empleadoTiempocompleto).getBeneficios());
         System.out.println("Salario: " + empleadoTiempocompleto.calcularSalario());
+
         System.out.println("---------------------------------------------");
+        
         System.out.println("Empleado Por horas");
         System.out.println("ID: " + empleadoPorhoras.getId());
         System.out.println("Nombre: " + empleadoPorhoras.getNombre());
