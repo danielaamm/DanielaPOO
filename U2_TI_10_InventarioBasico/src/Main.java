@@ -2,6 +2,7 @@
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+        //Inventario creado
         Inventario inventario=new Inventario();
         Producto p1=new Producto();
         p1.setCodigo("001");
